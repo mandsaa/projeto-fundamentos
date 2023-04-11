@@ -9,7 +9,7 @@
 |:---|:---|:---|
 |Amanda Roberta Borges de Araújo|Gerente de Projeto|amanda.araujo@estudante.ifro.edu.br|
 |Bruna Larissa Pinheiro Felix|Designer de interface com o usuário|bruna.pinheiro@estudante.ifro.edu.br|
-
+|Andressa Alypio de Jesus|Analista de teste|andressaalypiodejesus@gmail.com|
 # Sumário
 
 * [RESUMO DO PROJETO](#resumo-do-projeto)
