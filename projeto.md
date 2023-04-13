@@ -16,7 +16,7 @@
 * [RESUMO DO PROJETO](#resumo-do-projeto)
 * [INTRODUÇÃO](#introdução)
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
-  * [ESCOPO DO PROJETO](O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos requisitos de software.)
+  * [ESCOPO DO PROJETO](#escopo-do-projeto)
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
   * [CONVENÇÕES, TERMOS E ABRIVEAÇÕES](#convenções-termos-e-abreviações)
 * [DESCRIÇÃO GERAL](#descrição-geral)
@@ -88,8 +88,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
-O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
 
