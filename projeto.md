@@ -7,7 +7,7 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Amanda TESTE01 Borges de Araújo|Gerente de Projeto|amanda.araujo@estudante.ifro.edu.br|
+|Amanda Roberta Borges de Araújo|Gerente de Projeto|amanda.araujo@estudante.ifro.edu.br|
 |Bruna Larissa Pinheiro Felix|Designer de interface com o usuário|bruna.pinheiro@estudante.ifro.edu.br|
 |Andressa Alypio de Jesus|Analista de teste|andressaalypiodejesus@gmail.com|
 |Anna Clara Oliveira dos Santos|Designer de banco de dados|annaclaraoliv16@gmail.com|
@@ -16,7 +16,7 @@
 * [RESUMO DO PROJETO](#resumo-do-projeto)
 * [INTRODUÇÃO](#introdução)
   * [PROPÓSITO DESTE DOCUMENTO](#propósito-deste-documento)
-  * [ESCOPO DO PROJETO](#escopo-do-projeto)
+  * [ESCOPO DO PROJETO](O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos requisitos de software.)
   * [CONCEPÇÃO DO SISTEMA](#concepção-do-sistema)
   * [CONVENÇÕES, TERMOS E ABRIVEAÇÕES](#convenções-termos-e-abreviações)
 * [DESCRIÇÃO GERAL](#descrição-geral)
