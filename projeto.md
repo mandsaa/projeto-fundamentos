@@ -72,7 +72,7 @@ Utilizaremos para saber o que podemos melhorar e o que o público deseja.
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
 * Feedback: retorno de resultados;
-* Steakholder: integrantes da equipe.
+* Stakeholder: integrantes da equipe.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -82,7 +82,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos [requisitos do software](#requisitos-do-software)
+O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos [requisitos do software](#requisitos-do-software).
 
 ### FORA DO ESCOPO
 
