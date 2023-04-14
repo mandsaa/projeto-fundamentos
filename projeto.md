@@ -49,13 +49,13 @@
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](AFRODBEAUTY System) ]
 
 # INTRODUÇÃO
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, gerente e demais stakeholders deste projeto. O propósito deste documento é apresentar as funções e serviços que o nosso site apresenta e deve apresentar, bem como restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do site para um auxílio durante as etapas de desenvolvimento. O documento especifica todos os requisitos funcionais e não funcionais do site.
 
 ## CONCEPÇÃO DO SISTEMA
 
@@ -72,6 +72,7 @@ Utilizaremos para saber o que podemos melhorar e o que o público deseja.
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
 * Feedback: retorno de resultados;
+* Steakholder: integrantes da equipe.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
