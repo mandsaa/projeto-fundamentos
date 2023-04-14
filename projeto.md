@@ -93,9 +93,11 @@ O projeto consiste na criação de uma empresa/site criado e administrado por mu
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Fazer pesquisas para entender se os métodos funcionam e, obter feedback dos clientes
+
+* Realizar novas pesquisas de tendencias que estão se atualizando diariamente para deixar sempre atualizado o site. 
+
+* Fazer treinamentos com os integrantes da equipe para o melhor desempenho de cada um para que possam desenvolver novidades para o site e apresentar um pouco sobre o mundo da beleza para facilitar o desenvolvimento dos integrantes.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
