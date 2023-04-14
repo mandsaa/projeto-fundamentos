@@ -59,16 +59,11 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
-* Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
-* Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
-* Prototipação:
-  * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
+Pretendemos usar os seguintes métodos para possamos alcançar os nossos propósitos: 
+• Enquetes: 
+  Para que possamos saber qual é o interesse do público, o que eles mais gostam ou o que eles não gostam 
+• Pesquisa de levantamento:
+Utilizaremos para saber o que podemos melhorar e o que o público deseja.
 
 
 
@@ -76,9 +71,7 @@ Foram usados três métodos para que pudessem ser obtidos os requisitos do siste
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* Feedback: retorno de resultados;
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -95,9 +88,9 @@ O projeto consiste na criação de uma empresa/site criado e administrado por mu
 Não fazem parte do escopo do projeto:
 * Fazer pesquisas para entender se os métodos funcionam e, obter feedback dos clientes
 
-* Realizar novas pesquisas de tendencias que estão se atualizando diariamente para deixar sempre atualizado o site. 
+* Realizar novas pesquisas de tendências que estão surgindo diariamente para deixar sempre atualizado o site. 
 
-* Fazer treinamentos com os integrantes da equipe para o melhor desempenho de cada um para que possam desenvolver novidades para o site e apresentar um pouco sobre o mundo da beleza para facilitar o desenvolvimento dos integrantes.
+* Fazer treinamentos com os integrantes da equipe para o melhor desempenho de cada um para que, assim, possam desenvolver novidades para o site e apresentar um pouco sobre o mundo da beleza afim de facilitar o desenvolvimento dos integrantes.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
