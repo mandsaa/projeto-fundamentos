@@ -181,9 +181,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
-
+|RF-001 |Cadastrar as empresas | O sistema deve possibilitar o cadastro das empresas parceiras para a venda dos seus produtos, tendo como requisitos de cadastro: nome_fantasia; cnpj; email; telefone |
+|RF-002 | Cadastrar os produtos | O sistema deve possibilitar que as empresas cadastradas façam o cadastro dos seus respectivos produtos que serão vendidos, tendo como requisitos de cadastro: cód_produto; quant_produto; tipo_produt; desc_produto; valor_produt|
+|RF-003 | Cadastrar o cliente | O sistema deve possibilitar o cadastro dos clientes, tendo como requisitos: nome; dat_nascimento; sexo; email; telefone; cpf; endereço|
+|RF-004 | Realizar pré-seleção de produtos | O sistema deve possibilitar que o cliente selecione o que deseja comprar além de simular o valor final da compra|
+|RF-005 | Processar pagamentos | O sistema deve possibilitar que o cliente escolha a forma com a qual deseja realizar o pagamento|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
