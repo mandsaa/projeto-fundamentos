@@ -186,6 +186,18 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-003 | Cadastrar o cliente | O sistema deve possibilitar o cadastro dos clientes, tendo como requisitos: nome; dat_nascimento; sexo; email; telefone; cpf; endereço|
 |RF-004 | Realizar pré-seleção de produtos | O sistema deve possibilitar que o cliente selecione o que deseja comprar além de simular o valor final da compra|
 |RF-005 | Processar pagamentos | O sistema deve possibilitar que o cliente escolha a forma com a qual deseja realizar o pagamento|
+|RF-006 | Cadastrar o cartão de crédito | O sistema deve possibilitar que o cliente cadastre o cartão de crédito que irá usar no pagamento|
+|RF-007 | Gerar código de barra | O sistema deve gerar um código de barras, caso o usuário escolha boleto como forma de pagamento|
+|RF-008 | Gerar QRCode | O sistema deve gerar um QRCode caso o cliente escolha pagar com pix|
+|RF-009 | Cadastrar endereço de entrega | O sistema deve possibilitar que o cliente cadastre o endereço de entrega do produto comprado|
+|RF-010 | Cadastrar transportadora | O sistema deve possibilitar que transportadoras façam o cadastro para poderem trabalhar juntamente com a empresa|
+|RF-011 | Rastrear compras | O sistema deve possibilitar que as transportadoras disponibilizem a opção de rastrear a compra feita|
+|RF-012 | Avaliar as compras | O sistema deve possibilitar que o cliente possa avaliar as compras feitas, com adição de fotos e etc.|
+|RF-013 | Contatar o centro logístico | O sistema deve possibilitar que o cliente entre em contato com o centro logístico so site, para tirar dúvidas e afins|
+|RF-014 | Pesquisar produtos | O sistema deve possibilitar que o cliente pesquise pelos produtos que deseja|
+|RF-015 | Escolher Transportadora | O sistema deve possibilitar que o cliente selecione a transportadora desejada|
+|RF-016 | Filtrar produtos | O sisterma de ser capaz de possibilitar a divisão de itens por categorias para que o cliente possa filtrar de acordo com seus desejos|
+|RF-017 | Favoritar produtos | O sistema deve possibilitar a função de salvar produtos que o cliente selecione| | 
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
