@@ -197,7 +197,11 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-014 | Pesquisar produtos | O sistema deve possibilitar que o cliente pesquise pelos produtos que deseja|
 |RF-015 | Escolher Transportadora | O sistema deve possibilitar que o cliente selecione a transportadora desejada|
 |RF-016 | Filtrar produtos | O sisterma de ser capaz de possibilitar a divisão de itens por categorias para que o cliente possa filtrar de acordo com seus desejos|
-|RF-017 | Favoritar produtos | O sistema deve possibilitar a função de salvar produtos que o cliente selecione| | 
+|RF-017 | Favoritar produtos | O sistema deve possibilitar a função de salvar produtos que o cliente selecione|
+|RF-018 | Relatar vendas | O sistema deve possibilitar que as empresas que fazem parte do site, consigam ter um feedback das vendas feitas seja mensal, semanal e/ou anualmente|
+|RF-019 | Vizualizar estoque de produtos | O sistema deve possibilitar a vizualização do estoque dos produtos|
+|RF-020 | Reembolsar produtos | O sistema deve possibilitar que, caso o cliente tenha algum problema com a compra, possa pedir reembolso para a empresa|
+|RF-021 | Cancelar produtos | O sistema deve permitir que o cliente possa cancelar a compra dos produtos|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
