@@ -202,15 +202,24 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-019 | Vizualizar estoque de produtos | O sistema deve possibilitar a vizualização do estoque dos produtos|
 |RF-020 | Reembolsar produtos | O sistema deve possibilitar que, caso o cliente tenha algum problema com a compra, possa pedir reembolso para a empresa|
 |RF-021 | Cancelar produtos | O sistema deve permitir que o cliente possa cancelar a compra dos produtos|
+|RNF-022 |Autenticação |Permite que o usuário coloque um email extra para caso perca o acesso do pincipal |
+|RNF-023 |Configuração de idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
-|RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-
+|RNF-001 |Logon |O usuário deve efetuar logon para realizar as operações do sistema |
+|RNF-002 |Manutenção |O sistema deve ser fácil de manter e atualizar |
+|RNF-003 |Tutorial de uso |O usuário deve ter a opção de um tutorial explicativo de como usar o sistema |
+|RNF-004 |Áudio descrição |Possui a função de ativar áudio no sistema possibilitando que pessoas com deficiência visual e analfabetas possam usar com mais facilidade |
+|RNF-005 |Libras |Possui a função de ativar um tradudor de libras permitindo que pessoas com deficiência auditiva usem o sistema com mais facilidade |
+|RNF-006 |Atuação |O sistema deve ser capaz de lidar com vários usuários ao mesmo tempo sem travar ou ter erros em seu funcionamento |
+|RNF-007 |Compatibilidade de navegadores |O sistema deve possuir uma variedade de navegadores compatíveis |
+|RNF-008 |Interface simples |O sistema deve possuir uma interface intuitiva e de fácil utilização |
+|RNF-009 |Disponibilidade de sistema |O sistema deve estar disponível para uso 24 horas por dia durante os 7 dias da semana, mas poderá ficar fora do ar caso ocorra alguma falha até que ela seja resolvida |
+|RNF-010 |Conformidade |O sistema deve cumprir todas as leis e regulamentos aplicáveis (como não vazar informações pessoais) |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
