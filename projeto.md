@@ -82,7 +82,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros, além de auxiliar os clientes que desejam aprender mais sobre beleza e autocuidado com tutoriais gratuitos disponibilizados no próprio site. O escopo pode ser consultado nos [requisitos do software](#requisitos-do-software).
+O projeto consiste na criação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros.
 
 ### FORA DO ESCOPO
 
@@ -96,18 +96,17 @@ Não fazem parte do escopo do projeto:
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Comprador:**|Realiza as compras no sistema|
+|**Vendedor:**|Empresas das quais estão cadastradas devem ter acesso para verificar seus produtos e as vendas realizadas|
+|**Administrador:**|Responsável pela aprovação das compras e resolução de problemas dos mesmos|
+|**SAC:**|O Serviço de Atendimento ao Consumidor deve estar habilitado para sanar as dúvidas dos clientes diretamente com um adm do sistema|
 
 ## Abrangência e sistemas similares
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+O sistema consiste na implementação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros.
+
 
 Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
 
@@ -123,20 +122,14 @@ Das ferramentas de planejamento podemos citar:
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+Criado em 2023 por Amanda Borges, Andressa Alypio, Anna Clara e Bruna Pinheiro em Rondônia, Brasil. É um site destinado a compra e venda de produtos de beleza e auto-cuidado, com preços acessíveis, fácil acesso e boa segurança. Com devolução gratuita e garantida caso o produto não seja o esperado pelo consumidor, além do diferencial que é o acesso do SAC digital podendo ser acessado com poucos cliques e contando apenas com uma pequena taxa fixa de entrega.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No cenário internacional e nacional encontram-se três sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**Shein:** Site/App fundado em 2008 por Chris Xu em Nanquim, na China, é destinado a vendas de produtos variados com preços acessíveis e fornecedores do mundo inteiro, além de contar com sua própria marca de produção. 
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**Shopee:** Site/App fundado em 2015 por Forrest Li em Singapura, na China, é destinado a vendas de produtos variados com preços acessíveis e fornecedores do mundo inteiro, porém as avaliações não são muito boas, além das taxas de envio com valores absurdos. 
 
-No cenário internacional os sistemas de maior porte são:
-
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
-
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
