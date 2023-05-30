@@ -43,10 +43,10 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| NOME DO PROJETO | AfrodBeauty |
+| GERENTE DO PROJETO | Amanda Roberta Borges de Araújo |
+| PRINCIPAL OBJETIVO | Atender as demandas dos clientes e vender produtos de beleza. |
+| BENEFÍCIOS ESPERADOS |* Dar maior visibilidade para empresas;<br/>*Proporcionar um site seguro para compras;<br/>* |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](AFRODBEAUTY System) ]
@@ -105,20 +105,33 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema consiste na implementação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos em parcerias com terceiros.
+O sistema consiste na implementação de uma empresa/site criado e administrado por mulheres. Este visa vender produtos de beleza em parcerias com terceiros, seja eles de grandes ou pequenas marcas. O sistema possui muitas funcionalidades e ferramentas destinadas as empresas e aos clientes.
 
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+Dentre as ferramentas para as empresas podemos citar:
 
-Das ferramentas de planejamento podemos citar:
+* **Cadastro Empresarial:** as empresas poderão realizar um cadastro onde irão participar de uma avaliação para por fim fazer parte do site;
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+* **Cadastro dos produtos:** caso a empresa seja aprovada para fazer parte do site, estas deverão poder realizar cadastro dos produtos que desejam vender;
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+* **Relatar vendas:** as empresas podem ter acesso a todas as vendas que foram realizadas e a todos os clientes que compraram;
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+Dentre as ferramentas para o cliente podemos citar: 
 
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+* **Cadastro do cliente:** o cliente deve poder realizar o cadastro caso seja novo no site;
+
+* **Logon:** caso o usuário já possua cadastro no site eles poderão realizar o logon;
+
+* **Realizar pré-seleção dos produtos:** os clientes poderão simular um carrinho de compras, com os produtos desejados para que também possam saber o valor da compra;
+ 
+* **Cadastrar endereço de compra:** o cliente poderá cadastrar o endereço onde será entregue sua compra;
+
+* **Processar pagamento:** o cliente poderá escolher a forma de pagamento, seja ela pelo boleto, cartão de crédito ou gerar QrCode;
+ 
+* **Reembolsar produtos:** o cliente poderá solicitar o reembolso caso haja problemas com o produto em até 7 dias úteis;
+
+* **Contatar o SAC:** o cliente poderá contatar o serviço de atendimento ao consumidor caso haja problemas ou dúvidas;
+
 
 ### Sistemas similares:
 
@@ -130,16 +143,19 @@ No cenário internacional e nacional encontram-se três sistemas que se destacam
 
 **Shopee:** Site/App fundado em 2015 por Forrest Li em Singapura, na China, é destinado a vendas de produtos variados com preços acessíveis e fornecedores do mundo inteiro, porém as avaliações não são muito boas, além das taxas de envio com valores absurdos. 
 
+**Amazon:** Site/App fundado em 1994 por Jeff Bezos, nos EUA, é uma empresa multinacional de tecnologia que contam com venda de produtos variados.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
 
-Os usuários devem utilizar um computador com a seguinte configuração mínima:
+Os usuários devem utilizar um aparelho com as seguintes configurações mínimas para que possam ter melhor desempenho do site:
 
-* Processador Dual Core 2GHz ou superior
-* 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* Internet com mais de 100mb 
+* Navegador: Chorme e Opera (Desktop); Samsung Internet(Telefone/Celular)
+* Windows 10 ou posterior
+* Linux Ubuntu 18.04+ de 64 bits, Debian 10+, openSUSE 15.2+ ou Fedora Linux 32+
+* Mac macOS High Sierra 10.13 ou mais recentes
+* Processador Intel Pentium 4 ou posterior
 
 # ESTUDO DE VIABILIDADE
 
