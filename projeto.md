@@ -46,7 +46,7 @@
 | NOME DO PROJETO | AfrodBeauty |
 | GERENTE DO PROJETO | Amanda Roberta Borges de Araújo |
 | PRINCIPAL OBJETIVO | Atender as demandas dos clientes e vender produtos de beleza. |
-| BENEFÍCIOS ESPERADOS |* Dar maior visibilidade para empresas;<br/>*Proporcionar um site seguro para compras;<br/>* |
+| BENEFÍCIOS ESPERADOS |* Dar maior visibilidade para empresas;<br/>* *Proporcionar um site seguro para compras;<br/>* |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](AFRODBEAUTY System) ]
