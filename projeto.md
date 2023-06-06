@@ -235,8 +235,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Prototipagem
 
-[Protótipo criado no FIGMA em 2022 por estudantes] https://www.figma.com/file/9Ojc2qDtJA0nDTYhS7BITO/Untitled?type=design&node-id=0%3A1&t=3JCGg8KzUmas9r3Q-1
-! [Imagem do Protótipo] (/img/home.png)
+[Protótipo criado no FIGMA em 2023 por estudantes] https://www.figma.com/file/9Ojc2qDtJA0nDTYhS7BITO/Untitled?type=design&node-id=0%3A1&t=3JCGg8KzUmas9r3Q-1
+! [Imagem do Protótipo] (/img/AfrodBeauty 1 tela.PNG)
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
