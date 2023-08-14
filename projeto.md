@@ -100,6 +100,8 @@ Não fazem parte do escopo do projeto:
 |**Vendedor:**|Empresas das quais estão cadastradas devem ter acesso para verificar seus produtos e as vendas realizadas|
 |**Administrador:**|Responsável pela aprovação das compras e resolução de problemas dos mesmos|
 |**SAC:**|O Serviço de Atendimento ao Consumidor deve estar habilitado para sanar as dúvidas dos clientes diretamente com um adm do sistema|
+|**Técnico em Informática:**|Responsável pela programação e manutenção do sistema|
+
 
 ## Abrangência e sistemas similares
 
@@ -202,7 +204,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-010 | Cadastrar transportadora | O sistema deve possibilitar que transportadoras façam o cadastro para poderem trabalhar juntamente com a empresa|
 |RF-011 | Rastrear compras | O sistema deve possibilitar que as transportadoras disponibilizem a opção de rastrear a compra feita|
 |RF-012 | Avaliar as compras | O sistema deve possibilitar que o cliente possa avaliar as compras feitas, com adição de fotos e etc.|
-|RF-013 | Contatar o centro logístico | O sistema deve possibilitar que o cliente entre em contato com o centro logístico so site, para tirar dúvidas e afins|
+|RF-013 | Contatar o centro logístico | O sistema deve possibilitar que o cliente entre em contato com o centro logístico do site, para tirar dúvidas e afins|
 |RF-014 | Pesquisar produtos | O sistema deve possibilitar que o cliente pesquise pelos produtos que deseja|
 |RF-015 | Escolher Transportadora | O sistema deve possibilitar que o cliente selecione a transportadora desejada|
 |RF-016 | Filtrar produtos | O sisterma de ser capaz de possibilitar a divisão de itens por categorias para que o cliente possa filtrar de acordo com seus desejos|
@@ -211,8 +213,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-019 | Vizualizar estoque de produtos | O sistema deve possibilitar a vizualização do estoque dos produtos|
 |RF-020 | Reembolsar produtos | O sistema deve possibilitar que, caso o cliente tenha algum problema com a compra, possa pedir reembolso para a empresa|
 |RF-021 | Cancelar produtos | O sistema deve permitir que o cliente possa cancelar a compra dos produtos|
-|RNF-022 |Autenticação |Permite que o usuário coloque um email extra para caso perca o acesso do pincipal |
-|RNF-023 |Configuração de idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
+|RNF-022 |Autenticar |Permite que o usuário coloque um email extra para caso perca o acesso do pincipal |
+|RNF-023 |Configurar idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
