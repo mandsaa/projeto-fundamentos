@@ -101,6 +101,7 @@ Não fazem parte do escopo do projeto:
 |**Administrador:**|Responsável pela aprovação das compras e resolução de problemas dos mesmos|
 |**SAC:**|O Serviço de Atendimento ao Consumidor deve estar habilitado para sanar as dúvidas dos clientes diretamente com um adm do sistema|
 |**Técnico em Informática:**|Responsável pela programação e manutenção do sistema|
+|**Transportadora:**|Responsável pelo transporte dos produtos|
 
 
 ## Abrangência e sistemas similares
