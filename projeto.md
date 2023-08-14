@@ -252,27 +252,25 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Realizar pré-seleção de produtos
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Realizar pré-seleção de produtos|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
+|**Descrição/Objetivo:** Permite a pré-seleção dos produtos|
+|**Atores: Comprador**|
 |**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**Pós-condições:** O produto ficará salvo na aba carrinho de compras|
 |**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
+|1. O comprador seleciona o produto desejado|
+|2. O comprador clica no botão adicionar ao carrinho|
+|3. O comprador seleciona a variação do produto e a quantidade|
+|4. O produto fica salvo no carrinho de compras|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
-|**A1: Campo obrigatório não preenchido** |
-|1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
-|2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
+|**A1: Produto em falta** |
+|1. Uma mensagem será apresentada para o comprador, informando que o produto está indisponível no momento |
+|**A2: Variação não selecionada** |
+|1. Uma mensagem será inserida para o comprador, informando que não foi escolhida a variação|
+|2. A tela será direcionada novamente para a escolha da variação|
 
 
 ## Matriz de Rastreabilidade
