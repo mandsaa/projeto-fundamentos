@@ -196,7 +196,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-002 | Cadastrar os produtos | O sistema deve possibilitar que as empresas cadastradas façam o cadastro dos seus respectivos produtos que serão vendidos, tendo como requisitos de cadastro: cód_produto; quant_produto; tipo_produt; desc_produto; valor_produt|
 |RF-003 | Cadastrar o cliente | O sistema deve possibilitar o cadastro dos clientes, tendo como requisitos: nome; dat_nascimento; sexo; email; telefone; cpf; endereço|
 |RF-004 | Realizar pré-seleção de produtos | O sistema deve possibilitar que o cliente selecione o que deseja comprar além de simular o valor final da compra|
-|RF-005 | Processar pagamentos | O sistema deve possibilitar que o cliente escolha a forma com a qual deseja realizar o pagamento|
+|RF-005 | Escolher forma de pagamento | O sistema deve possibilitar que o cliente escolha a forma com a qual deseja realizar o pagamento|
 |RF-006 | Cadastrar o cartão de crédito | O sistema deve possibilitar que o cliente cadastre o cartão de crédito que irá usar no pagamento|
 |RF-007 | Gerar código de barra | O sistema deve gerar um código de barras, caso o usuário escolha boleto como forma de pagamento|
 |RF-008 | Gerar QRCode | O sistema deve gerar um QRCode caso o cliente escolha pagar com pix|
@@ -214,7 +214,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-020 | Reembolsar produtos | O sistema deve possibilitar que, caso o cliente tenha algum problema com a compra, possa pedir reembolso para a empresa|
 |RF-021 | Cancelar produtos | O sistema deve permitir que o cliente possa cancelar a compra dos produtos|
 |RNF-022 |Autenticar |Permite que o usuário coloque um email extra para caso perca o acesso do pincipal |
-|RNF-023 |Configurar idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
+|RNF-023 |Escolher idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
@@ -231,6 +231,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-008 |Interface simples |O sistema deve possuir uma interface intuitiva e de fácil utilização |
 |RNF-009 |Disponibilidade de sistema |O sistema deve estar disponível para uso 24 horas por dia durante os 7 dias da semana, mas poderá ficar fora do ar caso ocorra alguma falha até que ela seja resolvida |
 |RNF-010 |Conformidade |O sistema deve cumprir todas as leis e regulamentos aplicáveis (como não vazar informações pessoais) |
+|RNF-011 |Configurar idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
