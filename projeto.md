@@ -249,7 +249,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 ![Diagrama de Casos de Uso]
-<img src='/img/aaaaaaaaa.png' alt='logo da empresa' width='50px' heidth='50px'/>
+<img src='/img/aaaaaaaaa.png' alt='logo da empresa' width='200px' heidth='200px'/>
 
 ## Descrição / Especificação dos Casos de Uso
 
