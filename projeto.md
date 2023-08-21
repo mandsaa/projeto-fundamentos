@@ -248,8 +248,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 # Diagrama de Casos de Uso
 
 
-![Diagrama de Casos de Uso](img src='/img/aaaaaaaaa.png)
-
+![Diagrama de Casos de Uso]
+<img src='/img/aaaaaaaaa.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
 ## Descrição / Especificação dos Casos de Uso
 
