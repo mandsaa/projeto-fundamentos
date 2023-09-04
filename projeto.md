@@ -97,7 +97,7 @@ Não fazem parte do escopo do projeto:
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
 |**Comprador:**|Realiza as compras no sistema|
-|**Vendedor:**|Empresas das quais estão cadastradas devem ter acesso para verificar seus produtos e as vendas realizadas|
+|**Empresa:**|Empresas das quais estão cadastradas devem ter acesso para verificar seus produtos e as vendas realizadas|
 |**Administrador:**|Responsável pela aprovação das compras e resolução de problemas dos mesmos|
 |**SAC:**|O Serviço de Atendimento ao Consumidor deve estar habilitado para sanar as dúvidas dos clientes diretamente com um adm do sistema|
 |**Técnico em Informática:**|Responsável pela programação e manutenção do sistema|
