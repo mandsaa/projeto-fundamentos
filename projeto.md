@@ -202,7 +202,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-007 | Gerar código de barra | O sistema deve gerar um código de barras, caso o usuário escolha boleto como forma de pagamento|
 |RF-008 | Gerar QRCode | O sistema deve gerar um QRCode caso o cliente escolha pagar com pix|
 |RF-009 | Cadastrar endereço de entrega | O sistema deve possibilitar que o cliente cadastre o endereço de entrega do produto comprado|
-|RF-010 | Cadastrar transportadora | O sistema deve possibilitar que transportadoras façam o cadastro para poderem trabalhar juntamente com a empresa|
+|RF-010 | Cadastrar transportadora | O sistema deve possibilitar que transportadoras façam o cadastro para poderem trabalhar juntamente com a empresa. Nome; cpf; cnpj; telefone; endereço.|
 |RF-011 | Rastrear compras | O sistema deve possibilitar que as transportadoras disponibilizem a opção de rastrear a compra feita|
 |RF-012 | Avaliar as compras | O sistema deve possibilitar que o cliente possa avaliar as compras feitas, com adição de fotos e etc.|
 |RF-013 | Contatar o centro logístico | O sistema deve possibilitar que o cliente entre em contato com o centro logístico do site, para tirar dúvidas e afins|
