@@ -276,7 +276,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 | REQUISITO |UC-Cadastrar os produtos|UC-Vizualizar estoque de produtos|UC-Pesquisar produtos|UC-Cadatrar o cliente|UC-Contatar o centro logístico|UC-Favoritar produtos|UC-Reembolsar produtos|UC-Relatar vendas|UC-Cadastrar as empresas|UC-Cancelar produtos|UC-Realizar pré-seleção de produtos|UC-Filtrar produtos|UC-Autenticar|UC-Escolher idiomas do sistema|UC-Gerar QRCode|UC-Gerar códigos de barras|UC-Cadastrar o cartão de crédito|UC-Escolher forma de pagamentos|UC-Cadastrar endereço de entrega|UC-Cadastrar transportadora|UC-Avaliar as compras|UC-Escolher transportadora|UC-Rastrear compras|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |RF-001| | | | | | | | |X| | | | | | | | | | | | | | |
 |RF-002|X| | | | | | | | | | | | | | | | | | | | | | |
 |RF-003| | | |X| | | | | | | | | | | | | | | | | | | |
