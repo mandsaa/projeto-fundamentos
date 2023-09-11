@@ -275,10 +275,31 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
+| REQUISITO |UC-Cadastrar os produtos|UC-Vizualizar estoque de produtos|UC-Pesquisar produtos|UC-Cadatrar o cliente|UC-Contatar o centro logístico|UC-Favoritar produtos|UC-Reembolsar produtos|UC-Relatar vendas|UC-Cadastrar as empresas|UC-Cancelar produtos|UC-Realizar pré-seleção de produtos|UC-Filtrar produtos|UC-Autenticar|UC-Escolher idiomas do sistema|UC-Gerar QRCode|UC-Gerar códigos de barras|UC-Cadastrar o cartão de crédito|UC-Escolher forma de pagamentos|UC-Cadastrar endereço de entrega|UC-Cadastrar transportadora|UC-Avaliar as compras|UC-Escolher transportadora|UC-Rastrear compras|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+|RF-001| | | | | | | | |X| | | | | | | | | | | | | | |
+|RF-002|X| | | | | | | | | | | | | | | | | | | | | | |
+|RF-003| | | |X| | | | | | | | | | | | | | | | | | | |
+|RF-004| | | | | | | | | | |X| | | | | | | | | | | | |
+|RF-005| | | | | | | | | | | | | | | | | |X| | | | | |
+|RF-006| | | | | | | | | | | | | | | | |X| | | | | | |
+|RF-007| | | | | | | | | | | | | | | |X| | | | | | | |
+|RF-008| | | | | | | | | | | | | | |X| | | | | | | | |
+|RF-009| | | | | | | | | | | | | | | | | | |X| | | | |
+|RF-010| | | | | | | | | | | | | | | | | | | |X| | | |
+|RF-011| | | | | | | | | | | | | | | | | | | | | | |X|
+|RF-012| | | | | | | | | | | | | | | | | | | | |X| | |
+|RF-013| | | | |X| | | | | | | | | | | | | | | | | | |
+|RF-014| | |X| | | | | | | | | | | | | | | | | | | | |
+|RF-015| | | | | | | | | | | | | | | | | | | | | |X| |
+|RF-016| | | | | | | | | | | |X| | | | | | | | | | | |
+|RF-017| | | | | |X| | | | | | | | | | | | | | | | | |
+|RF-018| | | | | | | |X| | | | | | | | | | | | | | | |
+|RF-019| |X| | | | | | | | | | | | | | | | | | | | | |
+|RF-020| | | | | | |X| | | | | | | | | | | | | | | | |
+|RF-021| | | | | | | | | |X| | | | | | | | | | | | | |
+|RF-022| | | | | | | | | | | | |X| | | | | | | | | | |
+|RF-023| | | | | | | | | | | | | |X| | | | | | | | | |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
