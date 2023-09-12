@@ -165,21 +165,21 @@ Os usuários devem utilizar um aparelho com as seguintes configurações mínima
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+Os clientes e empresas usuárias desse sistema possuem bastante experiência com aplicações desse tipo bem como a equipe de desenvolvimento. No entanto ainda se faz necessário um treinamento para a equipe, pois apesar de estarem acostumados com aplicações, essa em específico é novidade. O nosso sistema é de porte médio, com um nível médipo de complexidade devido às suas constantes atualizações e ao seu funcionamento em sim. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Após a análise realizada, foi chegada a conclusão de que o projeto tem um ótimo custo-benefício, pois como o sistemas vende produtos de empresas parceiras, não possui um custo alto para sua criação e implantação. Assim como possui um bom custo-benefício para os clientes, pois como é apenas um sistema, não tem custos físicos, conseguindo deixar os preços mais em conta do que em lojas fisícas.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
+Do ponto de vista da equipe, o projeto é de baixo risco. A equipe num geral demonstra muito interesse e ânimo com a implantação do projeto. É esperado que a implantação do projeto seja aprovada visando a concorrência entre os sistemas, gerando mais variedade de sites deste tipo para os usuários.
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Metodologia Adotada no Desenvolvimento
-
+A metodologia adotada para o desenvolvimento do sistema foi o SCRUM, pois a equipe é pequena e o método SCRUM é o ideal para isso, já que possui uma maior facilidade de comunicação e se caso houver problemas serão resolvidos de forma mais eficiente, graças as sprints, também cabe relevar a boa convivência em equipe que os membros podem ter.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
