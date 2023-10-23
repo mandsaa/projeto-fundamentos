@@ -311,6 +311,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
+<img src='/img/Selecionar produtos.png' alt='diagrama de sequencia'>
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
