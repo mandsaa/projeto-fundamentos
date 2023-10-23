@@ -311,10 +311,13 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-<img src='/img/Selecionar produtos.png' alt='diagrama de sequencia'>
+<img src='/img/Selecionar produtos.png' alt='diagrama de sequencia selecionar produto'>
 
-<img src='/img/CadastrarEmpresa.png' alt='diagrama de sequencia'>
+<img src='/img/CadastrarEmpresa.png' alt='diagrama de sequencia cadastrar empresa'>
 
+<img src='/img/cadastrarCartao.png' alt='diagrama de sequencia cadastrar cartão'>
+
+<img src='/img/Grupo.png' alt='diagrama de sequencia cadastrar cliente'>
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
