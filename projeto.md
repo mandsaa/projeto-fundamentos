@@ -319,6 +319,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 <img src='/img/Grupo.png' alt='diagrama de sequencia cadastrar cliente'>
 
+<img src='/img/Scp.png' alt='diagrama de sequencia cadastrar produto'>
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
