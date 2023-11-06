@@ -327,6 +327,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Atividades
 
+<img src='/img/DIAGRAMA DE ATIVIDADE.png' alt='diagrama de atividade'>
 
 # REFERÊNCIAS
 
