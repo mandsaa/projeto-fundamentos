@@ -216,6 +216,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-021 | Cancelar produtos | O sistema deve permitir que o cliente possa cancelar a compra dos produtos|
 |RNF-022 |Autenticar |Permite que o usuário coloque um email extra para caso perca o acesso do pincipal |
 |RNF-023 |Escolher idiomas |Permite que o usuário escolha o idioma desejado para utilizar o sistema |
+|RNF-024 |Tirar dúvidas dos clientes|Permite que o cliente contate o SAC para tirar dúvidas|
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
